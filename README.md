@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <br />
   <b>Hello there </b>
 </p>
-
+<!--
 ---
 
 ### 🚀 Some Languages and Tools used :
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 
 </div>
 
-
+-->
