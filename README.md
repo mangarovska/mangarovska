@@ -26,9 +26,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<div align="center" font-size="100px">
-  <h1 style="font-size: 100px;">Hello there</h1>
+<div align="center">
+  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<!--   <div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%"   
-       style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div> -->
 </div>
