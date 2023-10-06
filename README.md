@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/ana-mangarovska/)">
+  <a href="https://www.linkedin.com/in/ana-mangarovska/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="ana.mangarovska@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="mailto:ana.mangarovska@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
 
