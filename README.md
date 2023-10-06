@@ -25,8 +25,11 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
+  <br />
+  <b>Hello there </b>
+</p>
 
-<div align="center">
-  Hello there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+
